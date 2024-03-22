@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shivam Goyal
-- 👀 I’m interested in Hacking Developing and Ofcourse Penetrate  
-- 🌱 I’m currently learning too many things not have a single things to tell
-- 💞️ I’m looking to collaborate on  With SOme Good People
+- 👀 I’m interested in Hacking development and the course Penetrate  
+- 🌱 I’m currently learning too many things and do not have a single thing to say
 - 📫 How to reach me ...
 
 <!---
