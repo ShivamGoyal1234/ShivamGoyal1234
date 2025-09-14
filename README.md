@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Shivam, an Indian Software Engineer 👋🏼:
-🛜 currently working on my own <br>👨🏼‍🎓 studying computer science at RGPV Bhopal(M.P.) <br>👨🏼‍💻 working as a Software Developer since 2020 🎬 <i>Shivam tackles tech</i>
+🛜 currently working on my own <br>👨🏼‍🎓 Graduated computer science at RGPV Bhopal(M.P.) <br>👨🏼‍💻 working as a Software Developer since 2020 🎬 <i>Shivam tackles tech</i>
 
 
 # 💻 Tech Stack:
